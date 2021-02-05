@@ -1,0 +1,25 @@
+.AuthUp {
+  margin: 20px auto;
+  width: 80%;
+  text-align: center;
+  box-shadow: 2px 2px 5px #5fce97;
+  border: 1px solid #eee;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.AuthIn {
+  margin: 20px auto;
+  width: 80%;
+  text-align: center;
+  box-shadow: 2px 2px 5px #d4761d;
+  border: 1px solid #eee;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+@media (min-width: 600px) {
+  .Auth {
+    width: 500px;
+  }
+}
